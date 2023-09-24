@@ -1,0 +1,23 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Ashish",
+      "lastName": "Chandra",
+      "email": "ashish.32@gmail.com",
+      "mobile": 8765452310,
+      "weight": 80,
+      "height": 1.79,
+      "bmi": 24.968009737523797,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-09-17T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
