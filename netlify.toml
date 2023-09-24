@@ -1,3 +1,5 @@
 [build]
   command = "ng build --configuration production"
   publish = "dist/gym"
+   [build.bundler]
+    budget = { "js": 2048 }
