@@ -1,5 +1,8 @@
 [build]
   command = "ng build --configuration production"
   publish = "dist/gym"
-[bundle]
-  max_size = 2048
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
